@@ -1,0 +1,52 @@
+Veronica Smith AWS Certified DevOps Engineer DevOps engineer with 5+ years of experience in
+1234 444 555
+Chicago, IL
+supporting and automating critical deployments over
+big infrastructure. Proficient in Jenkins and AWS
+CodeDeploy. Led a team of 10 at Pear Computers
+Inc., accelerating the release time by 25%
+linkedin.com/in/veronica.smith
+github.com/veronica.smith
+WORK EXPERIENCE
+TECHNICAL SKILLS
+Systems Administration:
+RedHat, Enterprise Linux, Ubuntu, CentOS, Fedora, LVM, Bash Shell, Ansible.
+Cloud Infrastructure:
+AWS (laaS, Paas, SaaS, CLI/API, VPS), Auto Scaling. EC2, ELB, EFS, Route 53, and Amazon S3.
+DevOps Engineer
+Pear Computers Inc.
+02/2018 - Present
+Achievements
+⚫ Updated company codes, automated security systems and cut risk of breaches by 60%.
+Designed new architectures within the Google Cloud Platform (GCP) for a lift and shift style move as the first
+stage cloud solution. Built services through a combination of Terraform to provision infrastructure, Packer with GCP provisioner, and Ansible to bake the images; all are coordinated with
+GitLab. Reduced the monthly costs by $4.000 by removing unnecessary servers and databases.
+Was an integral part of the team that improved and
+monitored cloud infrastructure on AWS and Jenkins. ⚫ Headed the Agile team that deployed SaaS software with over 1 million users.
+Servers:
+Apache HTTP Server. Load Balancing & Failover, MySQL, NFS, and Cron (system-wide & individual user).
+Networking:
+Nagios (Core, XI, Log Server, Fusion), Ping. Teletype Network, Netstat, Address Resolution Protocol.
+Containerization:
+Swarm, CoreOS'rkt, Portainer, AWS ECR, Marathon, Hashicorp. Docker Swarm and Kubernetes.
+DevOps Engineer
+Original Software
+SOFT SKILLS
+02/2015-01/2018 Achievements
+Verbal & Written Communication
+Flexibility
+• Set up and maintained a 99% uptime of a network of 20+ Unix servers.
+Time Management
+Attention to detail
+CERTIFICATES
+Used Jenkins to automate build and deployment that reduced human error and sped up production processes.
+▸ Successfully created and maintained automated CI/CD pipelines for code deployment using Jenkins while automating the deployment process, resulting in the elimination of 70% of manual work and escalation of work effciency.
+⚫ Managed local deployments in Kubernetes, creating local cluster and applications deployment into containers/kubes.
+Microsoft Certified Solutions Developer
+Google Cloud Certified - Associate Cloud Engineer
+AWS Certification (Architecture and Development)
+AWS Certified SysOps Admin - Associate
+EDUCATION
+Course in Advanced Operations on AWS
+Master's in Computer Science University of California, Berkeley
+Course in MySQL for Database Administrators

@@ -1,0 +1,43 @@
+R. SAI KIRAN
++916309955676∙ @mailto:ravirala.sai1712@gmail.com ∙ LinkedIn ∙ GitHub ∙Hyderabad, Telangana
+EDUCATION
+IIIT SRI CITY, CHITTOR Sricity, A.P
+Bachelor of Technology Expected 03/2024
+Computer Science and Engineering
+GPA: 9/10
+Relevant Coursework: Data Structures and Algorithms; Ful stack Development; Artificial Intelligence
+PERSONAL EXPERIENCE
+Web Development (Academic) 12/2021 – Present
+● Good Experience in Full stack development by doing projects in academic course and personal projects. One of 
+my best web projects is Web Office – Employee Management.
+Trib – A travel Guide App (Team Project) Present
+● Backend development and ui/ux for commercial travel guide app using Nodejs. A Personal Project by a team 
+and will be hosted and published in play store officially. 
+ACTIVITIES AND LEADERSHIP
+Academic projects 01/2022 – 05/2022
+● Managed a 5-member team as a lead for Full Stack web application known as Web Office - employee 
+management and work scheduling.
+● Worked as a team lead for a 5-member team for Oops Project using Java known as Election Commission 
+Records management.
+Experience in competitive programming and DSA
+● 3 Star in Code chef (max rating 1656).
+● Solved 100 DSA Problems in leetcode, Interview Bit, Gfg and other coding Websites.
+ACADEMIC PROJECTS
+Web Office 04/2022
+● Web Office is a Full Stack development project - an Employee Management and Work Scheduling system which 
+manages data and attendance of employees in a company and schedule work and assign projects to them.
+● Domain: Html, CSS, JavaScript, Nodejs, Mongo.
+● This is an academic project done under Prof. Dr. Subbu Kandaswamy.
+Election Commission Records System 06/2021
+● Election Commission record system is a Command line application, its Main objective is to manage records of 
+elections, organize and filter the data.
+● Domain: Java, JDBC and MySQL.
+TECHNICAL SKILLS
+● Programming: C/C++, Java, Python. 
+● Web Development: Html, CSS, JavaScript, Nodejs, Mongo DB.
+● Tools/Frameworks: JDBC, Express.js, React, Bootstrap, MATLAB.
+● Operating Systems: Windows, Linux.
+ADDITIONAL INFORMATION
+● Languages: Conversational Proficiency in English, Basic in Hindi, Fluent in Telugu.
+● Personality: Procedural, Initiative, Able to handle pressure and meet deadlines.
+● Interests: Software development, Web development, Machine Learning
