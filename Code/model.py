@@ -1,8 +1,7 @@
 import re
 import sys
 import pandas as pd
-import nltk
-from nltk.corpus import stopwords
+from stop_words import get_stop_words
 # from utils.cosine_similarity import cosine_similarity as cs
 # from utils.TfidfVectorizer import TfidfVectorizer as tfv
 #region
@@ -59,7 +58,7 @@ if cv is not None:
             print("Invalid value for argument option")
             sys.exit(1)
 
-        all_stopwords = stopwords.words('english')
+        all_get_stop_words = get_stop_words('english')
 
         tf = TfidfVectorizer()
         jobs = pd.read_csv(path)
@@ -71,7 +70,7 @@ if cv is not None:
         prediction_text = prediction_text.lower()
         prediction_text = prediction_text.split()
         ps = PorterStemmer()
-        prediction_text = [ps.stem(word) for word in prediction_text if not word in set(all_stopwords)]
+        prediction_text = [ps.stem(word) for word in prediction_text if not word in set(all_get_stop_words)]
         prediction_text = ' '.join(prediction_text)
         tfidf_jobs = tf.fit_transform(jobs["Description"]) # Tranform return document-term weighted matrix by taking set of documents
         tfidf_prediction_text = tf.transform([prediction_text])
