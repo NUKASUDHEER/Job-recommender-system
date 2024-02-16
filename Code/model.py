@@ -15,7 +15,11 @@ from pathlib import Path
 
 st.title("Job recommendation")
 
-with open('../554280/stop_words.txt','r') as file:
+script_dir = Path(__file__).resolve().parent
+stop_words_path = script_dir / 'stop_words.txt'
+
+
+with open(stop_words_path ,'r') as file:
     all_get_stop_words = file.readlines()
 all_get_stop_words = [word.strip() for word in all_get_stop_words]
 
