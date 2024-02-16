@@ -1,7 +1,7 @@
 import re
 import sys
 import pandas as pd
-from stop_words import get_stop_words
+
 # from utils.cosine_similarity import cosine_similarity as cs
 # from utils.TfidfVectorizer import TfidfVectorizer as tfv
 #region
@@ -14,6 +14,11 @@ import pdfplumber
 from pathlib import Path
 
 st.title("Job recommendation")
+
+with open('../554280/stop_words.txt','r') as file:
+    all_get_stop_words = file.readlines()
+all_get_stop_words = [word.strip() for word in all_get_stop_words]
+
 def extract_data(feed):
     text=''
     with pdfplumber.open(feed) as pdf:
@@ -57,9 +62,7 @@ if cv is not None:
         else:
             print("Invalid value for argument option")
             sys.exit(1)
-
-        all_get_stop_words = get_stop_words('english')
-
+            
         tf = TfidfVectorizer()
         jobs = pd.read_csv(path)
         # with open(f"./predictor_files/{filename}",encoding="utf8") as f:
