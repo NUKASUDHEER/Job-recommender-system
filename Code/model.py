@@ -1,6 +1,7 @@
 import re
 import sys
 import pandas as pd
+import nltk
 from nltk.corpus import stopwords
 # from utils.cosine_similarity import cosine_similarity as cs
 # from utils.TfidfVectorizer import TfidfVectorizer as tfv
